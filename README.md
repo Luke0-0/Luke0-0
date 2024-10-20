@@ -7,4 +7,5 @@
 Luke0-0/Luke0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Resume.pdf](https://github.com/Luke0-0/Luke0-0/files/12037106/Resume.pdf)
+[CV.pdf](https://github.com/user-attachments/files/17450833/CV.pdf)
+
