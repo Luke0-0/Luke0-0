@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luke0-0
-- 👀 Junior programmer looking for freelance jobs to gain experience and improve my coding! 
+- 👀 Junior programmer looking for full-time or freelance jobs to gain experience and improve my coding! 
 - 📫 Reach me at luke@reinbach.com
 - Resume attached :)
 
